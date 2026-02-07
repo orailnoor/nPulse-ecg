@@ -1,3 +1,4 @@
+# nPulse ECG Analyzer Dependencies
 numpy
 scipy
 matplotlib
